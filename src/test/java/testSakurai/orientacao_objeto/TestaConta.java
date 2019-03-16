@@ -3,13 +3,11 @@ package testSakurai.orientacao_objeto;
 public class TestaConta {
     public static void main(String[] agrs){
 
-//      Declara conta1
-        Conta contaDoThiago = new Conta();
+//      Declara conta1 e conta2
+        Conta contaDoThiago = new Conta("Thiago", 111,22222 );
+        Conta contaDoDiego = new Conta("Diego", 333,444444);
 
 //      Add valores para conta1
-        contaDoThiago.setNome("Thiago");
-        contaDoThiago.setAgencia(111);
-        contaDoThiago.setConta(22222);
         contaDoThiago.setSaldo(0);
 
 //      Imprime valores da conta1
@@ -27,13 +25,7 @@ public class TestaConta {
 
        System.out.println("********************outra conta*****************************");
 
-//      Declara conta2
-        Conta contaDoDiego = new Conta();
-
 //      Add valores para conta2
-        contaDoDiego.setNome("Diego");
-        contaDoDiego.setAgencia(333);
-        contaDoDiego.setConta(444444);
         contaDoDiego.setSaldo(500.00);
 
 //      Imprime valores da conta2
@@ -63,5 +55,7 @@ public class TestaConta {
         System.out.println("saldo atualizado conta2 apos transferencia: "+contaDoDiego.getSaldo());
 
 
+        System.out.println("*************************************************");
+        System.out.println("*************************************************");
     }
 }

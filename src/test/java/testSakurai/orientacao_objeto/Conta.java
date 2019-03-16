@@ -1,10 +1,23 @@
 package testSakurai.orientacao_objeto;
 
 public class Conta {
+
     private String nome = null;
     private int agencia = 0;
     private int conta = 0;
     private double saldo = 0;
+
+    public Conta(String nome, int agencia, int conta){
+
+        this.nome = nome;
+        this.agencia = agencia;
+        this.conta = conta;
+    }
+
+    static String[] listarBancos(){
+        String[] bancos = {"Bradesco", "BB", "Itau"};
+        return bancos;
+    }
 
     public void saca(double valor){
         if (saldo > 0){
