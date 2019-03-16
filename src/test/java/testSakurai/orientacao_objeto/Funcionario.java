@@ -1,6 +1,6 @@
 package testSakurai.orientacao_objeto;
 
-public class Funcionario {
+public abstract class Funcionario {
     protected String nome;
     protected String rg;
     protected String cpf;
@@ -17,9 +17,7 @@ public class Funcionario {
         this.dataNascimento = dataNascimento;
     }
 
-    public void recebeAumento(){
-
-    }
+    public abstract void recebeAumento();
 
     public String getRg() {
         return rg;

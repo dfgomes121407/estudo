@@ -14,11 +14,6 @@ public class Conta {
         this.conta = conta;
     }
 
-    static String[] listarBancos(){
-        String[] bancos = {"Bradesco", "BB", "Itau"};
-        return bancos;
-    }
-
     public void saca(double valor){
         if (saldo > 0){
             this.saldo -= valor;
