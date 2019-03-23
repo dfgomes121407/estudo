@@ -1,0 +1,12 @@
+
+Esquid:S1481")Remove this unused "nome" local variable.(£©ÓÑşÿÿÿÿ
+Tsquid:S1854"8Remove this useless assignment to local variable "nome".(£©ÓÑşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïÃãºÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å‘½ï
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(€‘ˆšúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÒÓ¶üÿÿÿÿ
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş³ğşşÿÿÿÿ8Ó•³˜-

@@ -1,0 +1,18 @@
+
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ˆğ
+Tsquid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(áî¶¡
+[squid:S1854
+"ERemove this useless assignment to local variable "quantidade_minima".(¿ùõ4
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÊø»ıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì ×
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚¬·³
+hsquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ùõ4
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´”£úÿÿÿÿ
+[squid:S1854"?Remove this useless assignment to local variable "valor_medio".(©´”£úÿÿÿÿ
+\squid:S1854"ERemove this useless assignment to local variable "quantidade_maxima".(…ˆğ
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òª»®ÿÿÿÿÿ8²û¾³˜-

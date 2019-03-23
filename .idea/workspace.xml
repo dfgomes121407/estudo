@@ -74,45 +74,6 @@
       <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/OlaMundo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/TestVariaveis.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/TestaCondicionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01a_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01a_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01b_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01b_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01c_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio01c_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio1d_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio1d_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio1e_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExercicios/Exercicio1e_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/CalculadoraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/CalculadoraTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02c.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02d.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02e.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02e.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02f.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Execercio02f.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03c.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio03c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04Ju.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04Ju.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04c.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04d.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04e.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/Exercicio04e.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/OlaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/OlaMundo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/TestVariaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/TestVariaveis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/TestaCondicionais.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/TestaCondicionais.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/model/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/java_basico/model/Calculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Autenticavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Autenticavel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/ControleDeBonificacoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/ControleDeBonificacoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Dev.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Dev.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Diretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Diretor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/Gerente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/TestaConta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/TestaConta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/TestaFuncionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSakurai/orientacao_objeto/TestaFuncionario.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inmTreinamento/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/encodings.xml" beforeDir="false" />
@@ -169,7 +130,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testCucumber/support/Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
+            <state relative-caret-position="289">
               <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -245,7 +206,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -275,7 +236,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553360973625" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553361510079" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdriver-java" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
@@ -432,9 +393,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23827533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23827533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +404,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="619" y="120" width="706" height="428" id="Run" order="2" visible="true" weight="0.9076923" />
+      <window_info anchor="bottom" x="619" y="120" width="706" height="428" id="Run" order="2" weight="0.9076923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -869,7 +830,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testCucumber/support/Web.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
+        <state relative-caret-position="289">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
