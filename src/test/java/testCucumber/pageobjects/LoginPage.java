@@ -16,6 +16,7 @@ public class LoginPage {
     public void navigateTo(String url) {
         this.navegador.get(url);
         Reports.tirarFoto(this.navegador, Utils.getTimestamp());
+
     }
 
     public LoginPage clicarNoLinkEntrar() {

@@ -14,6 +14,7 @@ public class Web {
         System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
         WebDriver navegador = new ChromeDriver();
         navegador.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        navegador.manage().window().maximize();
         return navegador;
     }
 
