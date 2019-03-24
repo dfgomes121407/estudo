@@ -27,7 +27,7 @@ public class EfetuarCadastroSteps {
     public void eu_vou_efetuar_o_cadastro() throws Exception {
 
         this.loginPage.preencheLogin();
-        Thread.sleep(3000);
+        Thread.sleep(5000);
 
     }
 
