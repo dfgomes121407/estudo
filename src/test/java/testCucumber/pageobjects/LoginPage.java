@@ -1,15 +1,20 @@
 package testCucumber.pageobjects;
 
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import testCucumber.support.Reports;
 import testCucumber.support.Utils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import java.util.concurrent.TimeUnit;
 
 public class LoginPage {
 
     private WebDriver navegador = null;
 
     public LoginPage(WebDriver navegador) {
+
         this.navegador = navegador;
     }
 
@@ -43,6 +48,17 @@ public class LoginPage {
 
     public boolean isDashboardPage() {
         return this.navegador.findElement(By.xpath("//h1/descendant-or-self::a[contains(text(), 'Dashboard')]")).isDisplayed();
+    }
+
+    public void clicaNoBotao(){
+        navegador.findElement(By.id("signup")).click();
+
+    }
+
+    public void preencheLogin(){
+        this.navegador.findElement(By.xpath("//*[@id=\"signupbox\"]/div[1]/form/div[2]/div/input")).sendKeys("Diego");
+
+
     }
 
 }

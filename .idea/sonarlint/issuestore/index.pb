@@ -101,3 +101,7 @@ _
 +src/test/java/testCucumber/support/Web.java,1\e\1e5433f78c5a6d14dfc2b50626ea1d12a2c6863e
 X
 (src/test/java/testCucumber/RunTests.java,f\6\f674dc1ff42476ed80b7ea2d7a553e164b52e1ed
+P
+ src/test/resources/julio.feature,7\4\74446cda0d4bea9d3316b3b1b64f71eeec0d9d48
+j
+:src/test/java/testCucumber/steps/EfetuarCadastroSteps.java,2\2\22244053798f5470747ff30883a818fb945b326a

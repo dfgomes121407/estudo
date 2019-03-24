@@ -5,7 +5,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin = {"pretty"}, tags = {"@Autenticacao"}, features = ".")
+@CucumberOptions(plugin = {"pretty"}, tags = {"@Julio"}, features = ".")
 
 public class RunTests {
 
